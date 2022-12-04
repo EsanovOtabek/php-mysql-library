@@ -1,5 +1,4 @@
 <?php
-
 namespace Kodols\MySQL\Builder;
 
 use \Exception;
